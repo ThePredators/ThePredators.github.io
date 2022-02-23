@@ -1,5 +1,5 @@
 ---
-title: ⭐ Setup [Fastlane](https://docs.fastlane.tools/) + [TestFlight](https://developer.apple.com/testflight/) + [AppCenter](https://appcenter.ms/) for Android/iOS & [Flutter](https://flutter.dev/)
+title: ⭐ Setup Fastlane + TestFlight + AppCenter for Android/iOS & Flutter
 author:
   name: Samy Benghalem
   link: https://github.com/ThePredators
