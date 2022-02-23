@@ -31,6 +31,12 @@ Then clone it to your local machine and run:
 $ bundle
 ```
 
+## Production (Build)
+
+```sh
+JEKYLL_ENV=production bundle exec jekyll b
+```
+
 ## Usage
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).

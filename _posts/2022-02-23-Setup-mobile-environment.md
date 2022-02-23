@@ -386,16 +386,19 @@ brew install --cask genymotion
 Usefull ClI :
 - [genyshell](https://docs.genymotion.com/desktop/latest/05_Genymotion_Shell.html#starting-genymotion-shell)
 - [gmtool](https://docs.genymotion.com/desktop/latest/06_GMTool.html#general-commands)
+
 ```sh
 ## Copy this to .zshrc
 echo 'GMTOOL_PATH="/Applications/Genymotion.app/Contents/MacOS/"' >> /Users/$(whoami)/.zshrc
 echo 'export PATH=$GMTOOL_PATH:$PATH' >> /Users/$(whoami)/.zshrc
+
 ## Display devices list
 genyshell -c "devices list"
 
 ## To Create / run u need licence !
 ## Create a device
 gmtool admin create "Google Pixel - 9.0 - API 28 - 1080x1920" GP_9
+
 ## Run a device
 gmtool admin run GP_9
 ```
