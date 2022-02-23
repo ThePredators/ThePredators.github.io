@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   This is my personal landing page
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://thepredators.github.io'
 
 github:
   username: ThePredators             # change to your github username
